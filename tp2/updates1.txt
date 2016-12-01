@@ -1,0 +1,1 @@
+I didn’t really change much from tp1, unless you are asking for changes to the term project, in which I fleshed out all the screens, created hard matching algorithms for the marchers with smooth transitions, and created a help screen.

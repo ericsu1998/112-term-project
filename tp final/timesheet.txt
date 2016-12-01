@@ -1,0 +1,22 @@
+Sunday, 11/20
+Start: 9:30pm End: 12:10am Time: 2:40 Total Time: 2:40 --> installed modules, started learning pygame and pyaudio, created field
+Start: 2:07am End:  2:38am Time: 0:30 Total Time: 3:10 --> played with modules
+
+Monday, 11/21
+Start: 10:30am End: 11:20am Time: 0:50 Total Time: 4:00 --> played with modules
+Start: 4:30pm  End: 6:40pm	Time: 2:10 Total Time: 6:10 --> created marcher list, with marchers being white circles, and drew them onto the field
+
+Friday, 11/25
+Start: 9:30 pm End: 12:00 am Time: 2:30 Total Time: 8:40 --> looked at more pygame demos
+
+Saturday, 11/26
+Start: 11:30am End: 12:30 am Time: 1:00 Total Time: 9:30 --> Worked on home screen/buttons
+Start: 9:00pm End: 12:00 am Time: 3:00 Total Time: 12:30 --> Home Screen (uploaded image, created button class)
+
+Monday, 11/28
+Start: 9:00pm End: 3:00 am Time: 6:00 Total Time: 18:30 --> Made createFormation and formationScreen (with dots and stuff)
+
+Wednesday, 11/30
+Start: 12:10am End: 5:30 am Time: 5:20 Total Time: 23:10 --> Made playScreen/hardmatching/transition
+Start: 10:40am End: 11:10 am Time: 0:30 Total Time: 23:40 —> Made allSets 
+Start: 5:30pm End: 7:00pm Time: 1:30 Total Time: --> 25:10 --> Made navigating buttons, help screen

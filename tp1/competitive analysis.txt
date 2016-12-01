@@ -1,0 +1,39 @@
+Micro Marching League:
+
+Features that I want to include
+_________________________________________________
+-Nice graphics
+-Smooth transitions
+-Set creation
+-Some basic functions
+	-formations
+	-scale distance up/down
+	-animations
+_________________________________________________
+Anti-features
+_________________________________________________
+-Set amount of marchers (40)
+-Doesn't have music
+-Doesn't allow to load images
+-No first person mode
+-Set amount of counts per set (4?)\
+
+Pyware (this is super expensive and professional)
+_________________________________________________
+
+Cool features:
+_________________________________________________
+Marching
+-Proximity match (complex algorithm transformation)
+_________________________________________________
+Music
+-Transposition(switching keys)
+-Balances measure for you (12 counts 3 measures, splits 4 counts/measure)
+-Copy/paste segments
+-Undo/Redo
+_________________________________________________
+
+Anti-features
+_________________________________________________
+-Looks very complicated at first glance
+-Don't know too much because costs money to get, only looking at website

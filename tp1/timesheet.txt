@@ -1,0 +1,7 @@
+Sunday, 12/20
+Start: 9:30pm End: 12:10am Time: 2:40 Total Time: 2:40 --> installed modules, started learning pygame and pyaudio, created field
+Start: 2:07am End:  2:38am Time: 0:30 Total Time: 3:10 --> played with modules
+
+Monday, 12/21
+Start: 10:30am End: 11:20am Time: 0:50 Total Time: 4:00 --> played with modules
+Start: 4:30pm  End: 6:40pm	Time: 2:10 Total Time: 6:10 --> created marcher list, with marchers being white circles, and drew them onto the field

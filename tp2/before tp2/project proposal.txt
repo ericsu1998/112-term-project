@@ -1,0 +1,13 @@
+Project: MarchingShowDesigner
+____________________________________________
+My project is attempting to solve the problem of more visual designers
+struggling to find a high-level marching band show designer (that's free too)
+by creating an easy-to-use program that allows you to upload pictures of 
+the shapes that you want to input, and smoothly transitions the marchers
+from set to set by using an algorithm that finds the shortest distance, avoids
+collisions, and keeps groups of marchers intact. You can also upload exisiting music
+to match the show to, or create your own tunes by using the tool that allows you 
+to take a set with a certain amount of counts and input notes of variable lengths.
+Once your entire show is done, you can save and play through the entire show,
+and pause and edit to fix little blips. This program uses Pygame for graphics
+and Pyaudio for music.
